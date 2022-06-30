@@ -6,7 +6,7 @@
 
    <body>
       <h1>Tutorial</h1>
-      <p style="text-align:center;">RENJITH M</p>
+      <p style="text-align:center;">TEST</p>
       <marquee behavior="scroll" direction="right">Welcome to Devops Training</marquee>
    </body>
 </html>
